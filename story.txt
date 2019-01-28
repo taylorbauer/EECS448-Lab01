@@ -6,4 +6,4 @@ Here is a third line so I can try to add my commit message just using the comman
 
 This is a new part of the story, about Han and Greedo. (Gredo?)
 
-This is the part of the story that will have a conflict for me to resolve.
+This is the part (how do we know) of the story that will have a conflict for me to resolve.
