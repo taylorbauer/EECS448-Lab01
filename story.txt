@@ -3,3 +3,5 @@ A long time ago, in a galaxy far, far away...
 Here is some more text for me to practice committing with.
 
 Here is a third line so I can try to add my commit message just using the command line
+
+This is a new part of the story, about Han and Greedo. (Gredo?)
